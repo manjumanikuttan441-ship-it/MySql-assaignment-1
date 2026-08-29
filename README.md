@@ -1,5 +1,5 @@
 # MySQL DDL Commands & Constraints – Employee Database
-📖 ## Overview
+## 📖 Overview
 
 This project is a MySQL database assignment designed to demonstrate the use of DDL (Data Definition Language) commands and SQL constraints.
 
